@@ -24,15 +24,8 @@ int main()
 	  a = a/2;
 	  i++;
 	}
-	printf("The length of the number is %d\n", i);	
+	//printf("The length of the number is %d\n", i);	
 
-
-	int i = 0;
-	while (a > 0) {
-		a = a / 2;
-		i++;
-	}
-	//printf("The length of the number is %d\n", i);
 	
 	int j = 0;
 	int binary[i];
